@@ -1,0 +1,12 @@
+<Country Name="Россия">
+    <Republic Name="Башкортостан">
+        <City Name="Уфа" Count="1125933" />
+        <City Name="Стерлитамак" Count="276394" />
+        <City Name="Салават" Count="150500" />
+    </Republic>
+    <Republic Name="Татарстан">
+        <City Name="Набережные Челны" Count="533839" />
+        <City Name="Казань" Count="1257341" />
+        <City Name="Альметьевск" Count="158429" />
+    </Republic>
+</Country>
